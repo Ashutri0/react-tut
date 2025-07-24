@@ -4,7 +4,7 @@ const MenuCard = ({ menuData }) => {
   // console.log(menuData);
 
 
-  let nubstyl = { color: "royalblue" }
+  // let nubstyl = { color: "royalblue" }
 
   return (
     <>
